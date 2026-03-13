@@ -67,6 +67,8 @@ Dependencies used:
 
 Run the analyzer on a sample log file:
 python log_analyzer.py --file sample_logs/auth.log
+Run real-time monitoring:
+python log_analyzer.py --file sample_logs/auth.log --monitor
 
 ---
 
