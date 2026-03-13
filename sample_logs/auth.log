@@ -1,0 +1,16 @@
+Jan 10 12:30:01 server sshd[1200]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jan 10 12:30:05 server sshd[1201]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jan 10 12:30:07 server sshd[1202]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jan 10 12:30:09 server sshd[1203]: Failed password for root from 192.168.1.10 port 22 ssh2
+Jan 10 12:30:15 server sshd[1204]: Failed password for admin from 192.168.1.20 port 22 ssh2
+Jan 10 12:30:20 server sshd[1205]: Failed password for admin from 192.168.1.20 port 22 ssh2
+Jan 10 12:30:25 server sshd[1206]: Failed password for admin from 192.168.1.20 port 22 ssh2
+Jan 10 12:30:30 server sshd[1207]: Failed password for user from 10.0.0.5 port 22 ssh2
+Jan 10 12:30:35 server sshd[1208]: Failed password for user from 10.0.0.5 port 22 ssh2
+Jan 10 12:30:40 server sshd[1209]: Failed password for user from 10.0.0.5 port 22 ssh2
+Jan 10 12:30:45 server sshd[1210]: Failed password for user from 10.0.0.5 port 22 ssh2
+Jan 10 12:30:50 server sshd[1211]: Failed password for user from 10.0.0.5 port 22 ssh2
+Jan 10 12:30:55 server sshd[1212]: error: maximum authentication attempts exceeded for root from 10.0.0.5 port 22 ssh2
+Jan 10 12:31:00 server sshd[1213]: Accepted password for admin from 192.168.1.30 port 22 ssh2
+Jan 10 12:35:00 server sshd[1300]: Failed password for root from 185.220.101.1 port 22 ssh2
+Jan 10 13:30:00 server sshd[2000]: Failed password for root from 8.8.8.8 port 22 ssh2
