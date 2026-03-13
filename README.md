@@ -66,10 +66,13 @@ Dependencies used:
 ## Quick Demo
 
 Run the analyzer on a sample log file:
+```bash
 python log_analyzer.py --file sample_logs/auth.log
+```
 Run real-time monitoring:
+```bash
 python log_analyzer.py --file sample_logs/auth.log --monitor
-
+```
 ---
 
 ## Example Output
@@ -117,7 +120,7 @@ Example:
 
 ### Real-Time Monitoring Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dasboard.png)
 
 ---
 
