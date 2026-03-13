@@ -51,20 +51,23 @@ This project demonstrates **log parsing, security monitoring, and real-time atta
 ## Installation
 
 Clone the repository:
+
 ```bash
-        git clone https://github.com/Charulpareek/linux-log-analyzer.git
-```
-```bash
-        cd linux-log-analyzer
+git clone https://github.com/Charulpareek/linux-log-analyzer.git
+cd linux-log-analyzer
 ```
 Install required dependencies:
 ```bash
     pip install -r requirements.txt
 ```
 Dependencies used:
-```bash
-      requests
-      rich
+
+Use:
+
+```markdown
+Dependencies:
+requests
+rich
 ```
 ---
 
@@ -134,11 +137,14 @@ Example:
 After analysis the tool generates structured reports.
 
 ### JSON Report
-report.json
+
+`report.json`
 
 Contains attack statistics in structured format.
 
 ### CSV Report
+
+`attack_report.csv`
 
 Contains attacker IP addresses and failed login counts.
 
