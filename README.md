@@ -51,16 +51,21 @@ This project demonstrates **log parsing, security monitoring, and real-time atta
 ## Installation
 
 Clone the repository:
+```bash
         git clone https://github.com/Charulpareek/linux-log-analyzer.git
+```
+```bash
         cd linux-log-analyzer
-
+```
 Install required dependencies:
+```bash
     pip install -r requirements.txt
-
+```
 Dependencies used:
+```bash
       requests
       rich
-
+```
 ---
 
 ## Quick Demo
